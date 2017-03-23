@@ -1,9 +1,7 @@
 import React from 'react'
 
-function App () {
-    return (
-        <h1>App is connected</h1>
-    )
-}
+const App = ()=> (
+    <div>App is connected</div>
+)
 
-export default App
+export default App;
